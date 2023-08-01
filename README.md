@@ -1,9 +1,6 @@
 # Exploit for Node.js Deserialization Bug for Remote Code Execution (Reverse shell)
 
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 This repository contains a Python script that exploits a deserialization vulnerability in Node.js to achieve remote code execution on a server that handles cookies encrypted in insecure base64 format.
 
