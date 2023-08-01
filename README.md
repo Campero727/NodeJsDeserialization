@@ -1,6 +1,9 @@
 # Exploit for Node.js Deserialization Bug for Remote Code Execution (Reverse shell)
 
 
+[![GitHub top language](https://img.shields.io/github/languages/top/Campero727/NodeJsDeserialization?logo=python&style=flat-square)](#)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Campero727/NodeJsDeserialization?logo=webpack&style=flat-square)](#)
+[![By](https://img.shields.io/badge/By-Campero727-green?style=flat-square&logo=github)](#)
 
 This repository contains a Python script that exploits a deserialization vulnerability in Node.js to achieve remote code execution on a server that handles cookies encrypted in insecure base64 format.
 
