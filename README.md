@@ -7,6 +7,7 @@ This repository contains a Python script that exploits a deserialization vulnera
 ## Disclaimer: 
 This script is for educational and research purposes only. It should not be used maliciously or without explicit permission from the server owner. Misuse of this script may be illegal and is strictly prohibited.
 
+The scripts and exploits presented in this repository were created and demonstrated solely for educational and research purposes. All testing and demonstrations were performed within a controlled environment with explicit authorization from the system owner.
 
 ## Description
 
